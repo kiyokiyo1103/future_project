@@ -1,9 +1,9 @@
 {
 "companyName": "DefaultCompany",
 "productName": "future_project",
-"dataUrl": "Future_project.data.unityweb",
-"wasmCodeUrl": "Future_project.wasm.code.unityweb",
-"wasmFrameworkUrl": "Future_project.wasm.framework.unityweb",
+"dataUrl": "future_project.data.unityweb",
+"wasmCodeUrl": "future_project.wasm.code.unityweb",
+"wasmFrameworkUrl": "future_project.wasm.framework.unityweb",
 "TOTAL_MEMORY": 268435456,
 "graphicsAPI": ["WebGL 2.0", "WebGL 1.0"],
 "webglContextAttributes": {"preserveDrawingBuffer": false},
